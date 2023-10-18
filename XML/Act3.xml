@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document>
+	<xml></xml>
+	<books>
+		<book>
+			<author> Carson </author>
+			<price format:$> 31.95</price>
+			<pubdate>05/01/2001</pubdate>
+		</book>
+		<pubinfo>
+			<publisher> MSPress</publisher>
+			<state> WA</state>
+		</pubinfo>
+	</books>
+</document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<Employee>
+	<emp_info>
+		<name>
+			<first_name></first_name>
+			<middle_name></middle_name>
+			<last_name></last_name>
+		</name>
+		<contact_info>
+			<company_info>
+				<comp_name></comp_name>
+				<comp_location>
+					<street></street>
+					<city></city>
+					<phone></phone>
+				</comp_location>
+				<designation></designation>
+			</company_info>
+			<phone></phone>
+			<email_address></email_address>
+		</contact_info>
+	</emp_info>
+</Employee>

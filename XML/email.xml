@@ -1,0 +1,6 @@
+<message>
+	<from>jhon.doe@gmail.com </from>
+	<to> jane.doe@gmail.com </to>
+	<subject>This is subject</subject>
+	<body>Can add the content of email</body>
+</message>

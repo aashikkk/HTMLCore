@@ -1,0 +1,20 @@
+<html>
+<head>
+<script text="java/javascript">
+function validateForm(){
+   if(document.myForm.fname.value == "" ) {
+      alert("First name must be filled out");
+	  document.getElementById('textbox').style.backgroundColor='#ffc0cb';
+      return ;
+   }
+}
+
+</script>
+</head>
+<body>
+<form name="myForm" action="">
+    First name: <input type="text" id="textbox" name="fname"> </br>
+    <input type="button" value="Submit" onclick="validateForm()"/>
+<label 
+</body>
+</html>
